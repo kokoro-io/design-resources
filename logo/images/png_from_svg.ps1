@@ -17,6 +17,7 @@ function OutputSingle ([string]$src, [string]$dest, [int]$width, [int]$height) {
 
 function OutputIosIcon ([string]$src, [string]$type, [single]$size, [int]$scale) {
     $dest = [System.String]::Format("gen\ios\AppIcon.appiconset\Icon-{0}-{1:.#}x{1:.#}@{2}x.png", $type, $size, $scale)
+    $size = $size * $scale
     OutputSingle $src $dest $size $size
 }
 
