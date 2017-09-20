@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg width="212" height="56" version="1.1" viewBox="0 0 212 56" xmlns="http://www.w3.org/2000/svg">
+<svg width="209" height="56" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <mask id="m" maskUnits="userSpaceOnUse">
       <path d="m0 56 17-56h14s-16.7 56-17 56h-14z" fill="#fff" />

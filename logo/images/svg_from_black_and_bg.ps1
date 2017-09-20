@@ -44,6 +44,7 @@ function OutputLogo ([System.Xml.Linq.XDocument]$bkDoc, [System.Xml.Linq.XDocume
     $doc.Root.RemoveNodes()
     $doc.Root.SetAttributeValue("width", $bkDoc.Root.Attribute("width").Value)
     $doc.Root.SetAttributeValue("height", $bkDoc.Root.Attribute("height").Value)
+    $doc.Root.Attribute("viewBox").Remove()
     $doc.Root.Add($defs)
     $doc.Root.Add($g)
     
