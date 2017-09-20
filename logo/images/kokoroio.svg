@@ -2,13 +2,13 @@
 <svg width="212" height="56" version="1.1" viewBox="0 0 212 56" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <mask id="m" maskUnits="userSpaceOnUse">
-      <path d="m0 56 17-56h14l-17 56z" fill="#fff" />
-      <path d="m42.8 0-17 56h65.6l8.49-28h-14l-4.24 14h-37.7l12.8-42z" fill="#fff" />
-      <path d="m68.6 0-8.49 28h14l8.49-28z" fill="#fff" />
-      <path d="m90.2 14h14l4.24-14h-14z" fill="#fff" />
-      <path d="m122 42h-14l-4.24 14h14z" fill="#fff" />
-      <path d="m129 56 17-56h14l-17 56z" fill="#fff" />
-      <path d="m166 42h23.9v14h-23.9zm11.9-42h24.6v14h-24.6zm3.36 56 17-56h14l-17 56zm-25.9 0 17-56h14l-17 56z" fill="#fff" />
+      <path d="m0 56 17-56h14s-16.7 56-17 56h-14z" fill="#fff" />
+      <path d="m42.9 0l-17 56h10.6 3.44 37.7 9.22 4.78c0.171 0 4.29-14 8.5-28h-14l-4.25 14h-37.6c5.04-16.6 12.6-42 12.6-42h-14z" fill="#fff" />
+      <path d="m68.7 0l-8.5 28h14c4.21-14 8.5-28 8.5-28h-14z" fill="#fff" />
+      <path d="m90.3 14h14c1.57-5.25 4.25-14 4.25-14h-14l-4.25 14z" fill="#fff" />
+      <path d="m122 42h-14l-4.25 14h14c0.0855 0 2.64-8.75 4.25-14z" fill="#fff" />
+      <path d="m129 56 17-56h14s-16.7 56-17 56h-14z" fill="#fff" />
+      <path d="m172 0l-17 56h10.7 3.33 20.5 5.32c0.342 0 17-56 17-56h-9.15-4.85-11.9-9.81-4.19zm9.82 14h11.8l-8.5 28h-11.7c2.65-8.72 5.85-19.4 8.43-28z" fill="#fff" />
     </mask>
   </defs>
   <g mask="url(#m)">
