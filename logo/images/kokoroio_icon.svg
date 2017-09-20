@@ -1,17 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg width="212" height="56" version="1.1" viewBox="0 0 212 56" xmlns="http://www.w3.org/2000/svg">
+<svg width="120" height="120" version="1.1" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <mask id="m" maskUnits="userSpaceOnUse">
       <path d="m0 56 17-56h14l-17 56z" fill="#fff" />
       <path d="m42.8 0-17 56h65.6l8.49-28h-14l-4.24 14h-37.7l12.8-42z" fill="#fff" />
       <path d="m68.6 0-8.49 28h14l8.49-28z" fill="#fff" />
       <path d="m90.2 14h14l4.24-14h-14z" fill="#fff" />
-      <path d="m122 42h-14l-4.24 14h14z" fill="#fff" />
-      <path d="m129 56 17-56h14l-17 56z" fill="#fff" />
-      <path d="m166 42h23.9v14h-23.9zm11.9-42h24.6v14h-24.6zm3.36 56 17-56h14l-17 56zm-25.9 0 17-56h14l-17 56z" fill="#fff" />
     </mask>
   </defs>
-  <g mask="url(#m)">
+  <g mask="url(#m)" transform="translate(6,32)">
     <path d="m162 56h50v-44.7h-50v44.7z" fill="#6f63c4" stroke-width="3.78" />
     <path d="m148 0h-48.3l20.7 56h35.2l19.7-10.7-27.2-45.3z" fill="#564ec2" stroke-width="3.78" />
     <path d="m172 0h-55.3l58.6 45.3-3.3-45.3z" fill="#4543bb" stroke-width="3.78" />
