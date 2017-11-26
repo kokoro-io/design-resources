@@ -46,5 +46,19 @@ function OutputIosIconAll([string]$src) {
     OutputIosIcon $src "Small" 50 2
 }
 
+function OutputAndroidIcon ([string]$src, [string]$name, [int]$size) {
+	$dest = [System.String]::Format("gen\drawable-{0}\kokoro.png", $name)
+    OutputSingle $src $dest $size $size
+}
+
+function OutputAndroidIconAll([string]$src) {
+	OutputAndroidIcon $src "mdpi" 48
+	OutputAndroidIcon $src "hdpi" 72
+	OutputAndroidIcon $src "xhdpi" 96
+	OutputAndroidIcon $src "xxhdpi" 144
+	OutputAndroidIcon $src "xxxhdpi" 192
+}
+
 OutputSingle "kokoroio.svg" "gen\logo@2x.png" 424 112
-OutputIosIconAll "kokoroio_icon.svg"
+OutputIosIconAll "kokoroio_icon_rounded.svg"
+OutputAndroidIconAll "kokoroio_icon_rounded.svg"
