@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="icon_foreground@108px.svg"
+   id="svg1485"
+   viewBox="0 0 108 108"
+   height="108"
+   width="108"
+   version="1.1">
+  <metadata
+     id="metadata1489">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg1485"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="1911"
+     inkscape:cy="64"
+     inkscape:cx="64"
+     inkscape:zoom="7.875"
+     showgrid="false"
+     id="namedview1487"
+     inkscape:window-height="2081"
+     inkscape:window-width="3840"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs1447">
+    <mask
+       height="128"
+       width="128"
+       id="m">
+      <circle
+         id="circle1434"
+         fill="#ffffff"
+         r="32"
+         cy="32"
+         cx="32" />
+      <circle
+         id="circle1436"
+         fill="#ffffff"
+         r="32"
+         cy="32"
+         cx="96" />
+      <circle
+         id="circle1438"
+         fill="#ffffff"
+         r="32"
+         cy="96"
+         cx="32" />
+      <circle
+         id="circle1440"
+         fill="#ffffff"
+         r="32"
+         cy="96"
+         cx="96" />
+      <rect
+         id="rect1442"
+         fill="#ffffff"
+         height="128"
+         width="64"
+         y="0"
+         x="32" />
+      <rect
+         id="rect1444"
+         fill="#ffffff"
+         height="64"
+         width="128"
+         y="32"
+         x="0" />
+    </mask>
+  </defs>
+  <g
+     id="g1483"
+     transform="matrix(0.66328881,0,0,0.66328881,18,35.4)">
+    <path
+       id="path1475"
+       fill="#ffffff"
+       d="M 0,56 17,0 H 31 C 31,0 14.3,56 14,56 Z" />
+    <path
+       id="path1477"
+       fill="#ffffff"
+       d="m 42.9,0 -17,56 h 10.6 3.44 37.7 9.22 4.78 c 0.171,0 4.29,-14 8.5,-28 h -14 L 81.89,42 H 44.29 C 49.33,25.4 56.89,0 56.89,0 h -14 z" />
+    <path
+       id="path1479"
+       fill="#ffffff"
+       d="m 68.7,0 -8.5,28 h 14 C 78.41,14 82.7,0 82.7,0 Z" />
+    <path
+       id="path1481"
+       fill="#ffffff"
+       d="m 90.3,14 h 14 c 1.57,-5.25 4.25,-14 4.25,-14 h -14 z" />
+  </g>
+</svg>
